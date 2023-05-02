@@ -9,11 +9,9 @@ Alternatively, you can download the raw counts from GEO.
 
 ### Requirements
 - R:
-		- dplyr
-		- data.table
-		- readxl
-		- matlabr
-- MATLAB (If you do not have MATLAB and MLRScore is not required, checkout the NoMLR branch which does not have this dependency)
+	- dplyr
+	- data.table
+	- readxl
 
 ### Running the code
 
